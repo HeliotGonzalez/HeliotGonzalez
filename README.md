@@ -10,18 +10,18 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## Sobre mi
+## About me
 
 - 💻 I’m a final year Computer Science undergraduate student at University of Las Palmas de Gran Canaria (ULPGC) 💻 
 - ⌨️ Focused in Web Development
 - 📈 I am experienced in frameworks such as Laravel or Angular with a big interest in React.
 <br>
 
-## Proyectos *destacados*
+## **Main** projects
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Reconocimiento facial</h3>
+<h3 align="center">Facial recognition</h3>
 <div align="center">
 <a href="https://github.com/HeliotGonzalez/Trabajo_Final_VC" target="_blank"><img src="https://github.com/HeliotGonzalez/Trabajo_Final_VC/blob/main/assets/img/model.png" width="400" alt="Reconocimiento facial"></a>
 <p>
