@@ -93,3 +93,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeliotGonzalez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HeliotGonzalez&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&titles=MultiLanguage,Commits,Followers,Repositories" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+
+
