@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Heliot 👋</h1>
+<h1 align="center">Hi, I'm Heliot 👋</h1>
 </div>
 <img src="./presentation.png">
 
@@ -12,9 +12,9 @@
 
 ## Sobre mi
 
-- 💻 I’m a final year Computer Science undergraduate in University of Las Palmas de Gran Canaria (ULPGC) 💻 
+- 💻 I’m a final year Computer Science undergraduate student at University of Las Palmas de Gran Canaria (ULPGC) 💻 
 - ⌨️ Focused in Web Development
-- 📈 I experienced in frameworks such as Laravel or Angular with a big interest in React.
+- 📈 I am experienced in frameworks such as Laravel or Angular with a big interest in React.
 <br>
 
 ## Proyectos *destacados*
